@@ -9,7 +9,7 @@
 ## Установка
 
 ```bash
-$ composer require progerWolf/phparrayelemtscount
+$ composer require progerwolf/phparrayelementscount
 ```
 
 ## Использование 
