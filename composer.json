@@ -1,13 +1,11 @@
 {
-    "name": "progerwolf/phparrayelemtscount",
+    "name": "progerwolf/phparrayelementscount",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Pw\\Phparrayelemtscount\\": "src/"
+            "ProgerWolf\\PhpArrayElementsCount\\": "src/"
         }
     },
     "minimum-stability": "stable",
-    "require": {
-        "php": "^7.4"
-    }
+    "require": {}
 }
